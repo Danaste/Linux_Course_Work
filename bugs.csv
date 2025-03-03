@@ -1,0 +1,7 @@
+BugID,BranchName,DevName,Priority,Description
+101,bugfix/login_issue,j.smith,High,Fix login failure when password contains special characters
+102,bugfix/payment_error,a.levy,Medium,Resolve payment gateway timeout issue
+103,bugfix/ui_overflow,m.katz,Low,Fix text overflow issue in mobile view
+104,bugfix/api_rate_limit,g.cohen,High,Adjust API rate limiting rules
+105,bugfix/email_notifications,d.rosen,Medium,Ensure email notifications are sent to correct recipients
+
