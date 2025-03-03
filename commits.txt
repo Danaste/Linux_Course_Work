@@ -1,0 +1,3 @@
+e08b986 BugID:101:2025-03-03 16:21:08:bugfix/login_issue:j.smith:High:Fix login failure when password contains special characters:Fixing additional details for the login issue
+e0e5a77 Fix login issue
+002c22d Initial commit with file1.txt
