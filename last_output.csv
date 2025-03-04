@@ -1,0 +1,34 @@
+Displaying contents of sample.csv:
+ 1. Data Collected,Specie,Sex,Weight
+ 2. 2024-03-01,OT,M,5.2
+ 3. 2024-03-02,OT,F,4.8
+ 4. 2024-03-03,AN,M,6.1
+File 'test.csv' created successfully.
+Displaying contents of test.csv:
+ 1. Data Collected,Specie,Sex,Weight
+New row added successfully to 'test.csv'.
+Displaying contents of test.csv:
+ 1. Data Collected,Specie,Sex,Weight
+ 2. 2025-03-04,PF,F,5.3
+Error: File '' not found!
+Error: No file specified and no previous file found!
+Error: No file specified and no previous file found!
+Filtering data for species: OT
+Data Collected,Specie,Sex,Weight
+Average weight for OT: No data
+Filtering data for species: PF
+Data Collected,Specie,Sex,Weight
+2025-03-04,PF,F,5.3
+Average weight for PF: 5.3
+Filtering data for species: OT
+Data Collected,Specie,Sex,Weight
+2025-03-04,OT,M,7.2
+2025-03-04,OT,F,8.1
+Average weight for OT: 7.65
+Error: Invalid species. Please enter NA, OT, or PF.
+Filtering data for species: NA and sex: M
+Data Collected,Specie,Sex,Weight
+2025-03-04,NA,M,7.5
+Filtering data for species: OT and sex: F
+Data Collected,Specie,Sex,Weight
+2025-03-04,OT,F,8.1
